@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[1],{173:function(n,e,a){"use strict";a.r(e),a.d(e,"default",function(){return i});var t=a(0),u=a.n(t);function i(){return u.a.createElement("div",null,u.a.createElement("span",null,"Full Name"),"Haikal Hikmi")}}}]);
+//# sourceMappingURL=component---src-pages-index-js-268f853322870629f0fc.js.map

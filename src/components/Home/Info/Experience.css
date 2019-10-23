@@ -1,0 +1,10 @@
+
+.experience--column {
+	display: grid;
+	grid-template-columns: 20% auto;
+	padding-top: 20px;
+}
+
+.experience--content {
+	padding: 0 30px;
+}

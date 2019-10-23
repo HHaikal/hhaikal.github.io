@@ -1,0 +1,9 @@
+.home--info {
+	display: grid;
+	grid-template-columns: 20% auto;
+}
+
+h2.info--top--title {
+	color: #00723f;
+	margin-bottom: 5px;
+}

@@ -1,0 +1,10 @@
+.progress-bar {
+	height: 20px;
+	background-color: #ebebeb;
+}
+
+.skill-grid {
+	display: grid;
+	grid-template-columns: 50% 50%;
+}
+
